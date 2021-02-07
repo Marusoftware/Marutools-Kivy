@@ -1,0 +1,3 @@
+title=Marutools	
+author=Marusoftware
+orientation=portrait
